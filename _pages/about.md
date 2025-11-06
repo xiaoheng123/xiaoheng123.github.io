@@ -16,7 +16,8 @@ Education
 - B.S. in Internet of Things Engineering, 2023 Zhengzhou University
 - M.S. in Software Engineering, 2025 Wuhan University
 
-Industrial Experience
+Education
+======
 - OPPO research project：May,2024 - Sep,2025
 - OPPO Intern:Apr,2024 - Oct,2024
 - HUAWEI research project：Nov,2025 - Present
