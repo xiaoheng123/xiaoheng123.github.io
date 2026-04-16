@@ -137,7 +137,7 @@ def extract_author_info(config):
             profiles.append({
                 "network": "GitHub",
                 "username": author.get('github'),
-                "url": f"https://github.com/{author.get('github')}"
+                "url": author.get('github')
             })
         
         if author.get('linkedin'):
