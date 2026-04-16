@@ -1,24 +1,31 @@
----
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a first year Mechanical Engineering Doctor at Wuhan University, advised by Prof.Dazhao Cheng.My research interest includes Operating System
-and Computer Architecture.My current work focus on frameload prediction and identifying critical threads.
+I'm a first-year Ph.D. student in Mechanical Engineering at Wuhan University, advised by Prof. Dazhao Cheng. My research interests include Operating Systems and Computer Architecture. My current work focuses on frameload prediction and critical thread identification.
 
-Education
-======
+## Education
+- **Ph.D. in Mechanical Engineering**, Wuhan University, Present
+  Advisor: Prof. Dazhao Cheng
+- **M.S. in Software Engineering**, Wuhan University, 2025
+- **B.S. in Internet of Things Engineering**, Zhengzhou University, 2023
 
-- B.S. in Internet of Things Engineering, 2023 Zhengzhou University
-- M.S. in Software Engineering, 2025 Wuhan University
+## Industrial Experience
+### OPPO
+- **Research Project** | May 2024 – Sep 2025
+  Responsibilities: Performance Analysis
+- **Intern** | Apr 2024 – Oct 2024
+  Responsibilities: OS Instrument
 
-Industrial Experience
-======
-- OPPO research project：May,2024 - Sep,2025
-- OPPO Intern:Apr,2024 - Oct,2024
-- HUAWEI research project：Nov,2025 - Present
+### HUAWEI
+- **Research Project** | Nov 2025 – Present
+  Responsibilities: OS Module Development & Modification
 
+## Publications
+- **Trident: Identifying, Constraining and Multi-Domain Governing for Resource Management on Mobile Devices**
+  *IEEE Transactions on Mobile Computing (TMC)*
+  Qianlong Sang, Yuheng Li, Chuang Hu, Member, IEEE, Yili Gong, Dazhao Cheng, Senior Member, IEEE
