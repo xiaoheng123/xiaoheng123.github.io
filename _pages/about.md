@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -29,3 +30,4 @@ I'm a first-year Ph.D. student in Mechanical Engineering at Wuhan University, ad
 - **Trident: Identifying, Constraining and Multi-Domain Governing for Resource Management on Mobile Devices**
   *IEEE Transactions on Mobile Computing (TMC)*
   Qianlong Sang, Yuheng Li, Chuang Hu, Member, IEEE, Yili Gong, Dazhao Cheng, Senior Member, IEEE
+
